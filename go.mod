@@ -1,4 +1,4 @@
-module github.com/vele/packer-plugin-cloudstack
+module github.com/radioactive-bg/packer-plugin-cloudstack
 
 go 1.17
 
